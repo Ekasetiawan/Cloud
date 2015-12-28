@@ -1,0 +1,352 @@
+student@student-PC51 MINGW32 ~
+$ mkdir data
+
+student@student-PC51 MINGW32 ~
+$ ls -la
+total 8571
+drwxr-xr-x 1 student 197121       0 Dec 28 10:50 ./
+drwxr-xr-x 1 student 197121       0 Sep 16  2014 ../
+drwxr-xr-x 1 student 197121       0 Dec  4 20:34 .android/
+drwxr-xr-x 1 student 197121       0 Feb 20  2015 .AndroidStudio/
+drwxr-xr-x 1 student 197121       0 Dec  4 20:56 .AndroidStudio1.5/
+drwxr-xr-x 1 student 197121       0 Feb 24  2015 .gradle/
+drwxr-xr-x 1 student 197121       0 Sep 16  2014 .nbi/
+-rw-r--r-- 1 student 197121     380 Aug 28 11:09 .packettracer
+drwxr-xr-x 1 student 197121       0 Sep 17  2014 .spss/
+drwxr-xr-x 1 student 197121       0 Sep  4 14:12 .VirtualBox/
+drwxr-xr-x 1 student 197121       0 Feb 20  2015 AndroidStudioProjects/
+drwxr-xr-x 1 student 197121       0 Sep 16  2014 AppData/
+lrwxrwxrwx 1 student 197121      32 Sep 16  2014 Application Data -> /c/Users/st                                                                                                                                                 udent/AppData/Roaming/
+drwxr-xr-x 1 student 197121       0 Sep 16  2014 Cisco Packet Tracer 6.1sv/
+drwxr-xr-x 1 student 197121       0 Aug 24 10:00 Cisco Packet Tracer 6.2sv/
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Contacts/
+lrwxrwxrwx 1 student 197121      58 Sep 16  2014 Cookies -> /c/Users/student/App                                                                                                                                                 Data/Roaming/Microsoft/Windows/Cookies/
+drwxr-xr-x 1 student 197121       0 Dec 28 10:50 data/
+drwxr-xr-x 1 student 197121       0 Aug 31 10:44 Desktop/
+drwxr-xr-x 1 student 197121       0 Sep  4 13:37 Documents/
+drwxr-xr-x 1 student 197121       0 Dec 28 10:48 Downloads/
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Favorites/
+drwxr-xr-x 1 student 197121       0 Sep 17  2014 InstallAnywhere/
+drwxr-xr-x 1 student 197121       0 Aug 31 08:08 Links/
+lrwxrwxrwx 1 student 197121      30 Sep 16  2014 Local Settings -> /c/Users/stud                                                                                                                                                 ent/AppData/Local/
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Music/
+lrwxrwxrwx 1 student 197121      26 Sep 16  2014 My Documents -> /c/Users/studen                                                                                                                                                 t/Documents/
+lrwxrwxrwx 1 student 197121      68 Sep 16  2014 NetHood -> /c/Users/student/App                                                                                                                                                 Data/Roaming/Microsoft/Windows/Network Shortcuts/
+-rw-r--r-- 1 student 197121 7077888 Dec 28 10:48 NTUSER.DAT
+-rw-r--r-- 1 student 197121  262144 Dec 28 10:48 ntuser.dat.LOG1
+-rw-r--r-- 1 student 197121       0 Sep 16  2014 ntuser.dat.LOG2
+-rw-r--r-- 1 student 197121   65536 Sep 16  2014 NTUSER.DAT{016888bd-6c6f-11de-8                                                                                                                                                 d1d-001e0bcde3ec}.TM.blf
+-rw-r--r-- 1 student 197121  524288 Sep 16  2014 NTUSER.DAT{016888bd-6c6f-11de-8                                                                                                                                                 d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 student 197121  524288 Sep 16  2014 NTUSER.DAT{016888bd-6c6f-11de-8                                                                                                                                                 d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 student 197121      20 Sep 16  2014 ntuser.ini
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Pictures/
+lrwxrwxrwx 1 student 197121      68 Sep 16  2014 PrintHood -> /c/Users/student/A                                                                                                                                                 ppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 student 197121      57 Sep 16  2014 Recent -> /c/Users/student/AppD                                                                                                                                                 ata/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Saved Games/
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Searches/
+lrwxrwxrwx 1 student 197121      57 Sep 16  2014 SendTo -> /c/Users/student/AppD                                                                                                                                                 ata/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 student 197121      61 Sep 16  2014 Start Menu -> /c/Users/student/                                                                                                                                                 AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 student 197121      60 Sep 16  2014 Templates -> /c/Users/student/A                                                                                                                                                 ppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 student 197121       0 Aug 20 13:11 Videos/
+drwxr-xr-x 1 student 197121       0 Sep  4 14:11 VirtualBox VMs/
+-rw-r--r-- 1 student 197121     600 Aug 31 08:34 winscp.RND
+drwxr-xr-x 1 student 197121       0 Sep 17  2014 workspace/
+
+student@student-PC51 MINGW32 ~
+$ cd XC
+bash: cd: XC: No such file or directory
+
+student@student-PC51 MINGW32 ~
+$ cd c
+bash: cd: c: No such file or directory
+
+student@student-PC51 MINGW32 ~
+$ mongo
+bash: mongo: command not found
+
+student@student-PC51 MINGW32 ~
+$ ~/cd/Cloud
+bash: /c/Users/student/cd/Cloud: No such file or directory
+
+student@student-PC51 MINGW32 ~
+$ cd Cloud
+bash: cd: Cloud: No such file or directory
+
+student@student-PC51 MINGW32 ~
+$ mongo instal --save Cloud
+bash: mongo: command not found
+
+student@student-PC51 MINGW32 ~
+$ pull https://github.com/panjipamungkas/Cloud.git
+bash: pull: command not found
+
+student@student-PC51 MINGW32 ~
+$ git clone https://github.com/panjipamungkas/Cloud.git
+Cloning into 'Cloud'...
+remote: Counting objects: 34, done.
+remote: Total 34 (delta 0), reused 0 (delta 0), pack-reused 34
+Unpacking objects: 100% (34/34), done.
+Checking connectivity... done.
+
+student@student-PC51 MINGW32 ~
+$ cd Cloud
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git remote -v
+origin  https://github.com/panjipamungkas/Cloud.git (fetch)
+origin  https://github.com/panjipamungkas/Cloud.git (push)
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git fetch baru
+fatal: 'baru' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git push origin master
+Everything up-to-date
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install mongodb --save
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install mongodb --Cloud
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ mkdir data
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ ls -la
+total 17
+drwxr-xr-x 1 student 197121  0 Dec 28 11:05 ./
+drwxr-xr-x 1 student 197121  0 Dec 28 11:01 ../
+drwxr-xr-x 1 student 197121  0 Dec 28 11:03 .git/
+drwxr-xr-x 1 student 197121  0 Dec 28 11:05 data/
+-rw-r--r-- 1 student 197121 78 Dec 28 11:01 README.md
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ systemctl start mongodb
+bash: systemctl: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install -g gulp
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ cd data
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git init
+Initialized empty Git repository in C:/Users/student/Cloud/data/.git/
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ ls -la
+total 4
+drwxr-xr-x 1 student 197121 0 Dec 28 11:07 ./
+drwxr-xr-x 1 student 197121 0 Dec 28 11:05 ../
+drwxr-xr-x 1 student 197121 0 Dec 28 11:07 .git/
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/student/Cloud/data/.git/
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git add *.c
+fatal: pathspec '*.c' did not match any files
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git add Cloud
+fatal: pathspec 'Cloud' did not match any files
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git add A
+fatal: pathspec 'A' did not match any files
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git add -A
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git add PANJUL
+fatal: pathspec 'PANJUL' did not match any files
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git add panjul.md
+fatal: pathspec 'panjul.md' did not match any files
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/student/Cloud/data/.git/
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ cd Cloud
+bash: cd: Cloud: No such file or directory
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ ~/Cloud
+bash: /c/Users/student/Cloud: Is a directory
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ git status
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ mongo
+bash: mongo: command not found
+
+student@student-PC51 MINGW32 ~/Cloud/data (master)
+$ cd
+
+student@student-PC51 MINGW32 ~
+$ Cloud
+bash: Cloud: command not found
+
+student@student-PC51 MINGW32 ~
+$ cd Cloud
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ ls -la
+total 17
+drwxr-xr-x 1 student 197121  0 Dec 28 11:05 ./
+drwxr-xr-x 1 student 197121  0 Dec 28 11:01 ../
+drwxr-xr-x 1 student 197121  0 Dec 28 11:03 .git/
+drwxr-xr-x 1 student 197121  0 Dec 28 11:07 data/
+-rw-r--r-- 1 student 197121 78 Dec 28 11:01 README.md
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/student/Cloud/.git/
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm instal
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install -g gulp
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ npm install mongodb --save
+bash: npm: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ gulp
+bash: gulp: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/student/Cloud/.git/
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$  git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git log
+commit df3dc1b803477df227423e6c3599e0de973f30db
+Author: Panji Pamungkas <panjul.leol@gmail.com>
+Date:   Thu Dec 10 11:41:08 2015 +0700
+
+    panji
+
+commit fc1ce5c68c43e78ff9f53f7368f4e0e3a3d9979d
+Merge: ae444d5 a712cae
+Author: Eka setiawan <setia6969@gmail.com>
+Date:   Thu Dec 10 11:38:13 2015 +0700
+
+    Merge pull request #1 from kholifahnurhabibah/master
+
+    a
+
+commit a712cae73512f503e81301d2521a278b884e7eac
+Author: Kholifah Nur Habibah <kholifah.nur.habibah64@gmail.com>
+Date:   Thu Dec 10 11:36:31 2015 +0700
+
+    a
+
+    a
+
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ w
+bash: w: command not found
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ vim README
+
+[No write since last change]
+/usr/bin/bash: wq: command not found
+
+shell returned 127
+
+Press ENTER or type command to continue
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git add README
+warning: LF will be replaced by CRLF in README.
+The file will have its original line endings in your working directory.
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git add README
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   README
+
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git pull https://github.com/Ekasetiawan/Cloud.git
+From https://github.com/Ekasetiawan/Cloud
+ * branch            HEAD       -> FETCH_HEAD
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'student@student-PC51.(none)')
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git config --global user.email "panjul.leol@gmail.com"
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git config --global user.name "panjipamungkas"
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$ git pull https://github.com/Ekasetiawan/Cloud.git
+From https://github.com/Ekasetiawan/Cloud
+ * branch            HEAD       -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+        README
+Please, commit your changes or stash them before you can merge.
+Aborting
+
+student@student-PC51 MINGW32 ~/Cloud (master)
+$
